@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blended Sienna",
+      "price": "12.34$",
+      "manufacturer": "COREtec Premium",
+      "availableAt": "Available Now 2650 Sf",
+      "imageSrc": "/products/furniture1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Sienna Blended",
+      "price": "56.78$",
+      "manufacturer": "Premium COREtec",
+      "availableAt": null,
+      "imageSrc": "/products/furniture2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Blenna Siended",
+      "price": "90.12$",
+      "manufacturer": "COREmium Pretec",
+      "availableAt": "Available Now 5026 Fs",
+      "imageSrc": "/products/furniture3.webp"
+    },
+    {
+      "id": 4,
+      "name": "Sieble Nnanded",
+      "price": "34.56$",
+      "manufacturer": "Pretec COREmium",
+      "availableAt": null,
+      "imageSrc": "/products/furniture4.webp"
+    }
+  ]
+}
